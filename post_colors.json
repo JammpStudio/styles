@@ -1,18 +1,18 @@
 [
 {"item_bg": "https://raw.githubusercontent.com/JammpStudio/styles/refs/heads/main/ic0.jpg", 
-"color1":"n/a", "color2":"n/a"},
+"color1":"n/a", "color2":"n/a", "texto":"n/a"},
 {"item_bg": "https://raw.githubusercontent.com/JammpStudio/styles/refs/heads/main/ic1.png", 
-"color1":"#082d67", "color2":"#042744"},
+"color1":"#082d67", "color2":"#042744", "texto":"#ffffff"},
 {"item_bg": "https://raw.githubusercontent.com/JammpStudio/styles/refs/heads/main/ic2.png", 
-"color1":"#136cf3", "color2":"#6cc1ff"},
+"color1":"#136cf3", "color2":"#6cc1ff", "texto":"#ffffff"},
 {"item_bg": "https://raw.githubusercontent.com/JammpStudio/styles/refs/heads/main/ic3.png", 
-"color1":"#d370ba", "color2":"a45af2"},
+"color1":"#d370ba", "color2":"a45af2", "texto":"#ffe6fe"},
 {"item_bg": "https://raw.githubusercontent.com/JammpStudio/styles/refs/heads/main/ic4.png", 
-"color1":"#d373be", "color2":"#f29190"},
+"color1":"#d373be", "color2":"#f29190", "texto":"#ffffff"},
 {"item_bg": "https://raw.githubusercontent.com/JammpStudio/styles/refs/heads/main/ic5.png", 
-"color1":"#79cab1", "color2":"#f5fad6"},
+"color1":"#79cab1", "color2":"#f5fad6", "texto":"#165266"},
 {"item_bg": "https://raw.githubusercontent.com/JammpStudio/styles/refs/heads/main/ic7.png", 
-"color1":"#4fc855", "color2":"#cee771"},
+"color1":"#4fc855", "color2":"#cee771", "texto":"#ffffff"},
 {"item_bg": "https://raw.githubusercontent.com/JammpStudio/styles/refs/heads/main/ic8.png", 
-"color1":"#f3c418", "color2":"#ffef98"}
+"color1":"#f3c418", "color2":"#ffef98", "texto":"#ffffff"}
 ]
